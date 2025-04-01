@@ -2,3 +2,5 @@ Dockerfile
 .github/
 README.md
 .gitignore
+.dockerignore
+.git/
